@@ -1,2 +1,0 @@
-var i=t=>({description:"Made with Framer",title:"My Framer Site"}),a=i;function s(t,e){return{bodyClassName:"framer-body-augiA20Il",breakpoints:[{hash:"72rtr7"}],description:a(t,e).description,elements:{},title:a(t,e).title||"Home",viewport:"width=1200"}}var _=1,l={exports:{metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},default:{type:"function",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{s as a,_ as b,l as c};
-//# sourceMappingURL=chunk-72SS7AUN.mjs.map
